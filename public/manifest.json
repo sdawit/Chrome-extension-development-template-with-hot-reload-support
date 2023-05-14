@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome extension template with hot-reload",
+  "description": "Chrome extension development template with hot-reload",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default title": "Extension Title",
+    "permissions": [
+      "scripting"
+    ]
+  }
+}
